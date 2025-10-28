@@ -458,16 +458,16 @@ Feather Drone <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Plu Drôn <color\=#FFFFF
 Feather Drone=Plu Drôn
 Frying Pan <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Padell Ffrio  <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Frying Pan=Padell Ffrio 
-Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Ffrwydrol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Grenade=Ffrwydbelen Ffrwydrol
-Grenade Duct Taped <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen â Thâp Dwythell <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Grenade Duct Taped=Ffrwydbelen â Thâp Dwythell
-Grenade Human <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Dynol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Grenade Human=Ffrwydbelen Dynol
-Grenade Shockwave <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Tonn Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Grenade Shockwave=Ffrwydbelen Tonn Sioc
-Grenade Stun <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Grenade Stun=Ffrwydbelen Sioc
+Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Ffrwydrol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade=Grenâd Ffrwydrol
+Grenade Duct Taped <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd â Thâp Dwythell <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade Duct Taped=Grenâd â Thâp Dwythell
+Grenade Human <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Dynol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade Human=Grenâd Dynol
+Grenade Shockwave <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Tonn Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade Shockwave=Grenâd Tonn Sioc
+Grenade Stun <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade Stun=Grenâd Sioc
 Gun <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Gwn Llaw <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Gun=Gwn Llaw
 Gun Laser <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Gwn Laser <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -540,8 +540,8 @@ Roll Drone <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Drôn Rolio <color\=#FFFFFF
 Roll Drone=Drôn Rolio
 Rubber Duck <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Hwyaden Rwber <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Rubber Duck=Hwyaden Rwber
-Shockwave Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Shockwave Grenade=Ffrwydbelen Sioc
+Shockwave Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Shockwave Grenade=Grenâd Sioc
 Shockwave Mine <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Mîn Ton Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Shockwave Mine=Mîn Ton Sioc
 Small Health Pack (25) <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Pecyn Iechyd Bach (25) <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -552,8 +552,8 @@ Stamina Upgrade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Uwchraddiad Ynni <colo
 Stamina Upgrade=Uwchraddiad Ynni
 Strength Upgrade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Uwchraddiad Nerth <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Strength Upgrade=Uwchraddiad Nerth
-Stun Grenade  <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Stun Grenade =Ffrwydbelen Sioc
+Stun Grenade  <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Stun Grenade =Grenâd Sioc
 Sword <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Cleddyf <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Sword=Cleddyf
 Tranq Gun <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Gwn <color\=#FFFFFF>[<u><b>V</b></u>]</color>
