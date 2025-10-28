@@ -4,9 +4,9 @@
 
 # --- CONFIG ---
 PYTHON_PATH="/c/Users/iwanw/AppData/Local/Programs/Python/Python314/python.exe"
-DATA_DIR="data"
+DATA_DIR="Mod"
 GDRIVE_FILE_ID="1hXY7ofxGXL6ALVEXckGRi0BmgYrHvt0B"
-ZIP_NAME="large_file.zip"
+ZIP_NAME="ModPack.zip"
 
 # --- CREATE DATA DIRECTORY ---
 mkdir -p "$DATA_DIR"
