@@ -153,10 +153,10 @@ MUSEUM OF HUMAN ART=\r\nAMGUEDDFA  Y GELF DDYNOL\r\n( f.  | amgueddfeydd )( f. |
 REDFIELD BUNKER=\r\nLLOCHES REDFIELD\r\n( f.  | llochesau )(  )
 SERVICE STATION=\r\nGORSAF BETROL\r\n( f.  | gorsafeodd )( m. | p > b | petrol )
 STRONGHOLD=\r\nCADARNLE\r\n(  | cadarnleoedd )
-SWIFTBROOM ACADEMY=\r\nATHROFA Y FANHADLEN GYFLYM\r\n( f.  | athrofeydd )( f. | b > f | banadl )( c >g |  )
+SWIFTBROOM ACADEMY=\r\nATHROFA FANHADLEN GYFLYM\r\n( f.  | athrofeydd )( f. | b > f | banadl )( c >g |  )
 DISPOSAL ARENA=\r\nARDAL SBWRIEL\r\n( f.  | ARDALOEDD )( m.f. |  )
-MCJANNEK STATION=\r\nGORSAF Y MCJANNEK\r\n( f.  | gorsafeodd )(  )
-PEACH'S CASTLE=\r\nCASTELL Y PEACH\r\n( m. | cestyll )(  )
+MCJANNEK STATION=\r\nGORSAF MCJANNEK\r\n( f.  | gorsafeodd )(  )
+PEACH'S CASTLE=\r\nCASTELL PEACH\r\n( m. | cestyll )(  )
 
 Name: 3DPlayerCrown=Coron Chwaraewr 3D\r\n( f. | coronau )( m. | chwaraewyr )
 Name: 8 Key=Agoriad Wyth\r\n( m. | agoriadau )( f. | wythiau / wythoedd )
@@ -236,7 +236,14 @@ Name: Dinosaur=Deinosor\r\n( m. | deinosoriaid )
 Name: DoubleCherry=Ceiriosen Ddeublyg\r\n( f. | ceirios )( adj. | d > dd )
 Name: Draxus Statue=Cerflun Yr Draxus\r\n( m. | cerfluniau )
 Name: DreamStone=Carreg Freuddwyd\r\n( f. | cerrig )( f. | b > f | breuddwydion )
+<<<<<<< HEAD
 Name: Emerald=Emrallt\r\n( f. | Emralltau )
+=======
+Name: duck man=Dyn Hwyaden\r\n( m. | dynion )( f. | hwyaid )
+Name: Egg=Wy\r\n( m. | wyau )
+Name: Emerald=Emrallt\r\n( f. | Emralltau )
+Name: Emerald Bracelet=Breichled Emrallt\r\n( f. | breicheldau / -i )( f. | Emralltau )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: Enchanted Book=Llyfr Hudolus\r\n( m. | llyfrau )( adj. |  )
 Name: Ender Pearl=Perl Ender\r\n( m. | perlau )
 Name: Enemy Valuable - Big=Calon Elyn - Fawr\r\n( f. | calonnau )( m. | g > _ | gelynion )( adj. | m > f | mwy mwyaf )
@@ -248,6 +255,10 @@ Name: Fancy Lamp=Llusern Wych\r\n( f. | llusernau )( adj. | g > _ )
 Name: Feather=Pluen\r\n( f. | plu )
 Name: Fireflower=Blodyn Tân\r\n( m. | blodau )( m. | tanau )
 Name: Flask=Fflasg\r\n( f. | fflasgiau )
+<<<<<<< HEAD
+=======
+Name: Flesh Blob=Ysmotyn Cnawd\r\n( m. | sgrabiau )( m. | ysmotiau )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: FNAF BonnieBobbleHead=Pen Boblog Bonnie\r\n( m. | pennau )( adj. |  )
 Name: FNAF ChicaBobbleHead=Pen Boblog Chica\r\n( m. | pennau )( adj. |  )
 Name: FNAF Fredbear Cabinet=Cwpwrdd Fredbear\r\n( m. | cypyrddau )
@@ -258,14 +269,26 @@ Name: FNAF Server Rack=Rac Weinydd Fazbear\r\n( f. | raciau )( m. | g > _ | gwei
 Name: FNAF TopHat=Tophat\r\n
 Name: Gem Poppy=Pabi Lain\r\n( f. | pabïau )( f. | g > _ | gleinion )
 Name: Gift Box=Blwch Anrheg\r\n( m. | blychau )( f. | anrhegion )
+<<<<<<< HEAD
 Name: GigaMushroom=Madarch Enfawr\r\n( f. | madarch )( adj. |  )
 Name: Gnome=Dynan\r\n( m. |  )
+=======
+Name: GigaMushroom=Madarch Fawr\r\n( f. | madarch )( adj. | m > f )
+Name: Globe=Cronnen\r\n( f. | cronenau )
+Name: Gnome=Dynan\r\n( m. | gnomau )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: GoalPole=Trostan Ôl\r\n( f. | trostanau )( f. | g > _ | goliau )
 Name: Gold Bar=Bâr Aur\r\n( m. | bariau )( m. |  )
 Name: Gold Horse Armorstand Wide=Safiad Arfwisg Ceffyl Aur\r\n( m. | safiadau )( f. | arfwisgoedd )( m. | ceffylau )
 Name: Gold Ingot=Ingôt Aur\r\n( m. | ingotau )( m. |  )
+<<<<<<< HEAD
 Name: Golden Cup=Cwpan Aur\r\n( m. | cwpanau )( m. |  )
 Name: Golden Statue=Cerflun Aur\r\n( m. | cerfluniau )( m. |  )
+=======
+Name: Golden Cup=Cwpan Aur\r\n( m. | cwpanau )( adj. |  )
+Name: Golden Statue=Cerflun Aur\r\n( m. | cerfluniau )( adj. |  )
+Name: Golden Swirl=Chwyrlïad Aur\r\n( m. | chwyrlïadau )( adj. |  )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: GoldFish=Pysgodyn Aur\r\n( m. | pysgod )( m. |  )
 Name: Gong=Gong\r\n
 Name: Grandfather Clock=Cloc Taid\r\n( m. | clociau )( m. | teidiau )
@@ -333,6 +356,7 @@ Name: MC Item Bread=Bara Minecraft\r\n( m. )
 Name: MC Item Golden Apple=Afal Aur Minecraft\r\n( f. | afalau )( adj. |  )
 Name: MegaMushroom=Madarchen Fega\r\n( f. | madarch )( adj. | m > f )
 Name: Metal Sheet=Darn Fetel\r\n( f. | darnau )( m. | m > f | metelau )
+<<<<<<< HEAD
 Name: Milk=Llaeth\r\n( m. | lleithion )(  |  )
 Name: MiniMario=Mario Mini\r\n
 Name: MiniMarioKey=Allwedd Mario Fini\r\n( f. | allweddi )(  )( adj. | m > f )
@@ -369,6 +393,23 @@ Name: Nuance Blimp=Blimp Arlliw\r\n(  |  )(  |  )
 Name: Old Phone=Hen Ffôn\r\n( adj. |  )( f. | ffonau )
 Name: OrigamiPeach=Peach Origami\r\n
 Name: Orinda Key=Allwedd Orinda\r\n( f. | allweddi )
+=======
+Name: Milk=Llaeth \r\n( m. | lleithion / m. )(  |  )
+Name: MiniMario=Mario Mini\r\n
+Name: MiniMarioKey=Allwedd Mario Fini\r\n( f. | allweddi )(  )( adj. | m > f )
+Name: Money=Arian\r\n( m. )
+Name: MonkeyBox=Cist Epa\r\n( f. | cistiau )( m. | epaod )
+Name: Museum Boombox=BOOMbox Amgueddfa\r\n(  )( f. | amgueddfeydd )
+Name: Mushroom=Madarch\r\n( f. | madarch )
+Name: Music Box=Blwch Cerddoriaeth\r\n( m. | blychau )( f. |  )
+Name: Nuance Blimp=Blimp Arlliw\r\n(  )(  |  )
+Name: Ocarina=Ocarina\r\n
+Name: Old Phone=Hen Ffôn\r\n( adj. )( f. | ffonau )
+Name: OrigamiPeach=Peach Origami\r\n
+Name: Orinda Key=Allwedd Orinda\r\n( f. | allweddi )
+Name: Pacifier=Teth\r\n( m.f. | heddychwyr )
+Name: Painting=Paentiad\r\n( m. | paentiadau )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: Paper Crown=Coron Bapur\r\n( f. | coronau )( m. | p > b | papurau )
 Name: PeachDoll=Dol Peach\r\n( f. | doliau )
 Name: PeachStar=Seren Peach\r\n( f. | sêr )
@@ -402,7 +443,12 @@ Name: Scepter=Teyrnwialen\r\n( f. | teyrnwiail )
 Name: Scream Doll=Doli Sgrech\r\n( f. | doliau )( f. | sgrechiadau )
 Name: Secret Garden Key=Allwedd Ardd Ddirgel\r\n( f. | allweddi )( f. | g > _ | gerddi )( adj. | d > dd )
 Name: Semibot=Semibot\r\n
+<<<<<<< HEAD
 Name: Shine=Seren\r\n( f. | sêr )
+=======
+Name: Shine=Seren\r\n
+Name: Ship in a bottle=Llong Mewn Potel\r\n( f. | llongau )( prep. )( f. | poteli )
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Name: Silver Key=Allwedd Arian\r\n( f. | allweddi )( adj. )
 Name: SkateShoe=Esgid Sglefrio\r\n( f. | esgidiau )( verb. | sglefri- )
 Name: SmallVoodooDoll=Doli Fwdw Fach\r\n( f. | doliau )(  )( adj. | b > f )
@@ -503,8 +549,13 @@ Frying Pan <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Padell Ffrio  <color\=#FFFF
 Frying Pan=Padell Ffrio 
 Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Ffrwydrol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Grenade=Grenâd Ffrwydrol
+<<<<<<< HEAD
 Grenade Duct Taped <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd a Thâp Dwythell <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Grenade Duct Taped=Grenâd a Thâp Dwythell
+=======
+Grenade Duct Taped <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd â Thâp Dwythell <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Grenade Duct Taped=Grenâd â Thâp Dwythell
+>>>>>>> f5e7c464ea75c0adc560cee466baa7d9768dfc1b
 Grenade Human <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Dynol <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Grenade Human=Grenâd Dynol
 Grenade Shockwave <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Tonn Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -539,8 +590,8 @@ MC Bread <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Bara MC <color\=#FFFFFF>[<u><
 MC Bread=Bara MC
 MC Cooked Beef <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Cig Eidion Wedi’i Goginio MC <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 MC Cooked Beef=Cig Eidion Wedi’i Goginio MC
-MC Golden Apple <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Afal Euraidd MC <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-MC Golden Apple=Afal Euraidd MC
+MC Golden Apple <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Afal Aurd MC <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+MC Golden Apple=Afal Aurd MC
 MC Iron Pickaxe <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Picell Haearn MC <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 MC Iron Pickaxe=Picell Haearn MC
 MC Iron Sword <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Cleddyf Haearn MC <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -583,8 +634,8 @@ Roll Drone <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Drôn Rolio <color\=#FFFFFF
 Roll Drone=Drôn Rolio
 Rubber Duck <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Hwyaden Rwber <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Rubber Duck=Hwyaden Rwber
-Shockwave Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Shockwave Grenade=Ffrwydbelen Sioc
+Shockwave Grenade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Shockwave Grenade=Grenâd Sioc
 Shockwave Mine <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Mîn Ton Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Shockwave Mine=Mîn Ton Sioc
 Small Health Pack (25) <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Pecyn Iechyd Bach (25) <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -595,8 +646,8 @@ Stamina Upgrade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Uwchraddiad Ynni <colo
 Stamina Upgrade=Uwchraddiad Ynni
 Strength Upgrade <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Uwchraddiad Nerth <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Strength Upgrade=Uwchraddiad Nerth
-Stun Grenade  <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Ffrwydbelen Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
-Stun Grenade =Ffrwydbelen Sioc
+Stun Grenade  <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Grenâd Sioc <color\=#FFFFFF>[<u><b>V</b></u>]</color>
+Stun Grenade =Grenâd Sioc
 Sword <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Cleddyf <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 Sword=Cleddyf
 Tranq Gun <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Gwn <color\=#FFFFFF>[<u><b>V</b></u>]</color>
@@ -611,7 +662,7 @@ Valuable Tracker <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Adryweddydd Gwerthfaw
 Valuable Tracker=Adryweddydd Gwerthfawrion
 Zero Gravity Orb <color\=#FFFFFF>[<u><b>V</b></u>]</color>=Pelen Diddisgyrchiant <color\=#FFFFFF>[<u><b>V</b></u>]</color>
 
-REGIONS==Rhanbarthau
+REGIONS==RHANBARTHAU
 Pick Best Region==Dewiswch y rhanbarth gorau
 Asia==Asia
 Australia==Awstralia
@@ -648,10 +699,10 @@ Everyone ready?\n\nOnce the game is started\nnew players can not join.=Pawb yn b
 Do you want to start a game?=Wyt ti eisiau dechrau gêm?
 Exit to main menu?=Gadael i'r brif ddewislen?
 EXTRACTING=ECHDYNNU
-EXTRACTION POINT ACTIVATED=Echdyniad ysgogwyd
-EXTRACTION POINT COMPLETED=Echdyniad wedi cwblhau
-FULL MOON=Lleuad cyfan
-GAME OVER=Gêm drosodd
+EXTRACTION POINT ACTIVATED=ECHDYNIAD YSGOGWYD
+EXTRACTION POINT COMPLETED=ECHDYNIAD WEDI CWBLHAU
+FULL MOON=LLEUAD CYFAN
+GAME OVER=GÊM DROSODD
 Grabbing an enemy will now cause overcharge, when full you get blasted.=Mae dâl gelynion yn achosi'ch bîm i fod yn fwy pwerus, os mae'n llenwi byddwch chi'n cael eich daro 
 Haha yes!  :)=Haha ie!\n:)
 HEALTH\n=IECHYD\n
@@ -691,7 +742,7 @@ Start a new game?=Dechrau gêm newydd?
 STARTING ENGINE<color\=#FFCC00>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>=TANIO'R INJAN<color\=#FFCC00>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>
 Stuck in loading?=Yn sownd wrth lwytho?
 TAX RETURN=Ffurflen treth
-The Broken Ones:=Wedi torri
+The Broken Ones:=Wedi torri:
 The friend with the best computer\nshould host.\n\nAre you this friend?=Dylai'r ffrind sydd â'r cyfrifiadur gorau gynnal.\n\n\nA ti yw'r ffrind hwn?
 UPGRADES=UWCHRADDIADAU
 Use <u><b>WASD</b></u> to move=Defnyddiwch <u><b>WASD</b></u> i symud
