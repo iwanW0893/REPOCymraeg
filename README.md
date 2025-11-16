@@ -1,7 +1,12 @@
-Download the zipped file. 
+# REPO ModPack
 
-Go to REPO in Steam -> Properties -> Browse...
+## Download
 
-Unzip the file to (...Drive Location) Folder location: Steam\steamapps\common\REPO
+Download the zipped file from this repository.
 
-You need BepInEx, winhttp.dl and doorstop_config for it to work. 
+## Installation
+
+1. Open Steam and go to your **REPO** game.
+2. Right-click → **Properties** → **Browse...** to open the game folder.
+3. Unzip the downloaded file into the game folder. Example path:  
+
