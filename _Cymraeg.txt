@@ -683,7 +683,7 @@ Europe==Ewrop
 Japan==Japan
 USA West==UDA Gorllewin
 
-< GO BACK=Mynd yn ôl
+< GO BACK= < MYND YN ÔL
 ACTIVE=Gweithredol
 Active moons=Lleuadau Gweithredol
 Change color=Newid lliw
